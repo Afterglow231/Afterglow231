@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Yifei Wang, a second-year Ph.D. student in Electrical and Computer Engineering at **Duke University** (CEI Lab), advised by Prof. Yiran Chen and working closely with Prof. Danyang Zhuo. Previously, I received my B.Eng. in Electronic Engineering from **Tsinghua University**.
+I am Yifei Wang, a second-year Ph.D. student in Electrical and Computer Engineering at **Duke University** ([CEI Lab](https://cei.pratt.duke.edu/)), advised by [Prof. Yiran Chen](https://ece.duke.edu/faculty/yiran-chen) and working closely with [Prof. Danyang Zhuo](https://danyangzhuo.com/). Previously, I received my B.Eng. in Electronic Engineering from **Tsinghua University**.
 
 My research focuses on **Machine Learning Systems**, with an emphasis on memory-efficient LLM/MoE inference, agentic serving systems, and GPU multiplexing.
 
